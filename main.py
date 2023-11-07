@@ -24,7 +24,7 @@ import sklearn.neural_network
 import sklearn.metrics
 
 # setting chatgpt
-openai.api_key = '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'
+openai.api_key = 'OPENAI-API-KEY'
 messages = [
     {"role": "system", "content": "You are a kind helpful assistant."},
 ]
