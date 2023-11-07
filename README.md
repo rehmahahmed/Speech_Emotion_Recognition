@@ -13,6 +13,7 @@ For Chatbot and NLP, the project uses Openai’s API. The user prompts are sent 
 
 For profiles, login data and emotion history the software uses SQL database. The database stores usernames, passwords, profile-picture and recent history of emotions.
 
+GUI coded with tkinter and customtkinter modules. Customtkinter helps create modern looking desktop application designs. 
 
 ![Rehmah Black Book_page-0037](https://github.com/rehmahahmed/Speech_Emotion_Recognition/assets/95929046/883f6ff1-fb3e-4a32-ba82-791fb3fe8ad5)
 ![Rehmah Black Book_page-0038](https://github.com/rehmahahmed/Speech_Emotion_Recognition/assets/95929046/ee30df93-7b1e-4f67-9888-cd16165b839c)
